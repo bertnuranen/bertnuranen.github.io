@@ -1,13 +1,13 @@
 # Site settings
-title: Xian Li's Blog
-SEOTitle: Xian's Blog | XL Blog
+title: Bert Nuranen's Blog
+SEOTitle: Bert's Blog | BGN Blog
 header-img: img/post-bg-desk.jpg
-email: xian@mtu.edu
+email: bertnuranen@gmail.com
 description: "Fortune Favors the Bold."
 keyword: "Apple, iPhone"
-url: "https://jiuwuzhi.github.io"          # your host, for absolute URL
+url: "https://bertnuranen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jiuwuzhi/jiuwuzhi.github.io.git" # you code repository
+github_repo: "https://github.com/bertnuranen/bertnuranen.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,8 +20,8 @@ sidebar-avatar: /img/about-XL-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:    jiuwuzhi
-facebook_username:    xian.li.794
+github_username:    bertnuranen
+#facebook_username:    xian.li.794
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -60,14 +60,14 @@ kramdown:
 # disqus_username: jiuwuzhi
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 64d1dddd0e6cf283a9ac                            #生成的clientID
-  clientSecret: 9c75ea74e805d9ac1e2798c1c267f55aff91b6e5    #生成的clientSecret
-  repo: jiuwuzhi.github.io    #仓库名称
-  owner: jiuwuzhi    #github用户名
-  admin: jiuwuzhi
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 64d1dddd0e6cf283a9ac                            #生成的clientID
+#  clientSecret: 9c75ea74e805d9ac1e2798c1c267f55aff91b6e5    #生成的clientSecret
+#  repo: jiuwuzhi.github.io    #仓库名称
+#  owner: jiuwuzhi    #github用户名
+#  admin: jiuwuzhi
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -77,8 +77,8 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-126029078-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-126029078-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
