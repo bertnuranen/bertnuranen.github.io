@@ -4,7 +4,7 @@ title:      About me - Teacher of the Year (1991, California)
 subtitle:   "\"Congress Documental Record\""
 date:       2018-11-18
 author:     Bert Nuranen
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/US_Capital_Bldg_By XL.jpg
 catalog: 	 true
 tags:
     - Certificates
